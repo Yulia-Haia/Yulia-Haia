@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 👋 I'm Julia Konkova
 
@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on any type of project that I can be of help in.
 
-### 📫 How to reach me: 
+## 📫 How to reach me: 
 email at ubigaia at gmail.com 
 or telegram at
 
