@@ -6,7 +6,8 @@
 
 💞️ I’m looking to collaborate on any type of project that I can be of help in.
 
-📫 How to reach me: email at ubigaia at gmail.com or telegram at /ubigaia
+### 📫 How to reach me: email at ubigaia at gmail.com or telegram at
+
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ubigaia)
 
 <!--
