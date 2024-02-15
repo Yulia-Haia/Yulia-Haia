@@ -10,7 +10,7 @@
 [OpenWeather project](https://github.com/Yulia-Haia/OpenWeatherJava_05),
 [Jenkins project](https://github.com/Yulia-Haia/JenkinsQa_2023)
 
-#### 📫 How to reach me: 
+#### 📫 How to reach me 
 email at ubigaia at gmail.com 
 or telegram at
 
