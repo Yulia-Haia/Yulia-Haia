@@ -2,7 +2,7 @@
 
 👋 I'm Julia Konkova
 
-👀 I am interested in becoming a really good QA Engineer. At the present moment I am exploring JAVA and develop project in testing Jenkins (UI, functional and API autotests)
+👀 I am interested in becoming a good QA Engineer. At the present moment I am exploring JAVA and develop projects in testing (UI, functional and API automation)
 
 💞️ I’m looking to collaborate on any type of project that I can be of help in
 
