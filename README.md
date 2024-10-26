@@ -7,7 +7,7 @@
 💞️ I’m looking to collaborate on any type of project that I can be of help in
 
 #### Welcome to explore my repositories
-[OpenWeather project](https://github.com/Yulia-Haia/OpenWeatherJava_05),
+[OpenWeather project](https://github.com/Yulia-Haia/OpenWeatherJava_05)
 
 #### 📫 How to reach me 
 email at ubigaia at gmail.com 
